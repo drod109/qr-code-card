@@ -40,8 +40,8 @@ body {
     background-color: var(--card-bg);
     max-width: 18.125em;
     height: 80%;
-    padding: 20px;
-    border-radius: 20px;
+    padding: 1.25rem;
+    border-radius: 1.25rem;
 }
 .card-img {
     position: relative;
@@ -63,3 +63,10 @@ body {
     display: block;
     text-align: center;
 }
+
+@media (max-width: 23.4375rem) {
+    .card {
+      height: auto;
+      max-width: 90vw;
+    }
+  }
