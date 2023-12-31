@@ -38,7 +38,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: var(--card-bg);
-    max-width: 40%;
+    max-width: 18.125em;
     height: 80%;
     padding: 20px;
     border-radius: 20px;
@@ -52,14 +52,14 @@ body {
 .card h1 {
     font-weight: var(--ff-wght-bold);
     font-size: 1.375em;
-    padding: 18px 0;
+    padding: 1.125em 0;
     text-align: center;
 }
 .card span {
     font-weight: var(--ff-wght-reg);
     color: var(--ff-secondary);
     font-size: 1rem;
-    padding-top: 15px;
+    padding-top: 0.9375em;
     display: block;
     text-align: center;
 }
