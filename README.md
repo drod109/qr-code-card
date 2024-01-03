@@ -9,11 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -24,7 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/drod109/qr-code)
-- Live Site URL: [QR Code Component | Live Preview](https://codepen.io/drodrigues/full/rNROLgP)
+- Live Site URL Primary: [QR Code Component | Live Preview](https://drod109.github.io/qr-code/)
+- Live Site URL Backup: [QR Code Component | Live Preview](https://codepen.io/drodrigues/full/rNROLgP)
 
 ## My process
 
@@ -37,4 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@drod109](https://www.frontendmentor.io/profile/drod109)
+- LinkedIn - [@dwaynerodrigues](https://www.linkedin.com/in/dwaynerodrigues/)
 - Twitter - [@drod_tweets](https://www.twitter.com/drod_tweets)
+- Instagram - [@drod108](https://www.instagram.com/drod108/)
