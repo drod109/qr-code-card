@@ -9,6 +9,8 @@
     outline: none;
     border: none;
     text-decoration: none;
+    border: none;
+    outline: none;
 }
 :root {
     --bg-color: hsl(212, 45%, 89%);
@@ -30,6 +32,9 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+a {
+    color: inherit;
 }
 .card {
     position: relative;
@@ -63,6 +68,17 @@ body {
     padding-top: 0.9375em;
     display: block;
     text-align: center;
+}
+.credit {
+    padding-top: 5px;
+    font-size: 0.800rem;
+    color: var(--ff-secondary);
+}
+.credit > a {
+    color: var(--ff-secondary); 
+}
+.credit > a:hover {
+    color: var(--card-bg); 
 }
 
 @media (max-width: 23.4375rem) {
