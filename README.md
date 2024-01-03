@@ -9,8 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -35,4 +33,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Frontend Mentor - [@drod109](https://www.frontendmentor.io/profile/drod109)
+- LinkedIn - [@dwaynerodrigues](https://www.linkedin.com/in/dwaynerodrigues/)
 - Twitter - [@drod_tweets](https://www.twitter.com/drod_tweets)
+- Instagram - [@drod108](https://www.instagram.com/drod108/)
