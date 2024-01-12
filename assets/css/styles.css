@@ -17,16 +17,16 @@
     --card-bg: hsl(0, 0%, 100%);
     --ff-primary: hsl(218, 44%, 22%);
     --ff-secondary: hsl(220, 15%, 55%);
-    --ff-wght-reg: 400;
-    --ff-wght-bold: 700;
+    --fw-reg: 400;
+    --fw-bold: 700;
 }
 html {
     font-family: Outfit, sans-serif, system-ui;
     background-color: var(--bg-color);
     color: var(--ff-primary);
+    font-size: 15px;
 }
 body {
-    max-width: 100%;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -56,13 +56,13 @@ a {
     border-radius: 0.625em;
 }
 .card h1 {
-    font-weight: var(--ff-wght-bold);
+    font-weight: var(--fw-bold);
     font-size: 1.375em;
     padding: 1.125em 0;
     text-align: center;
 }
 .card span {
-    font-weight: var(--ff-wght-reg);
+    font-weight: var(--fw-reg);
     color: var(--ff-secondary);
     font-size: 1rem;
     padding-top: 0.9375em;
@@ -70,7 +70,7 @@ a {
     text-align: center;
 }
 .credit {
-    padding-top: 5px;
+    padding-top: 0.333rem;
     font-size: 0.800rem;
     color: var(--ff-secondary);
 }
